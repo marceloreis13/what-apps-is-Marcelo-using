@@ -6,7 +6,7 @@ here is some information about the setup I'm currently using.
 * I use [iTerm2](https://www.iterm2.com/) instead of the stock terminal Mac app
 * I use [oh-my-zshell](https://github.com/robbyrussell/oh-my-zsh)
 * I use [Solarized Dark](http://ethanschoonover.com/solarized) for the terminal colors
-* I use the [Meslo Powerline Font](https://github.com/powerline/fonts/blob/master/Meslo/Meslo%20LG%20M%20DZ%20Regular%20for%20Powerline.otf) as you need a font that supports the directory characters for `powerline`
+* I use the [Meslo Powerline Font](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) as you need a font that supports the directory characters for `powerline`
 * The results:
 
 ![term](term.png)
