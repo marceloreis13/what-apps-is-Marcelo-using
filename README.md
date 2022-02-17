@@ -17,7 +17,7 @@ here is some information about the setup I'm currently using.
 ## Xcode
 * I use [asset catalog creator](https://itunes.apple.com/br/app/asset-catalog-creator-free/id866571115?l=en&mt=12) for take images and create a full set of icons
 * I use [Swift-Clean](http://www.swiftcleanapp.com/) to help me set a standard for writing clean Swift.
-* [PlayNow](https://github.com/marcboquet/PlayNow) to open and use quickly playground
+* I use [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) for reformatting Swift code
 
 ## Menssegers
 * [Slack](https://itunes.apple.com/br/app/slack/id803453959?l=en&mt=12) to brings all my communication together in one place.
